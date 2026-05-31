@@ -69,7 +69,7 @@
         "rimraf": "^6.0.0",
         "semver": "^7.3.8",
         "ts-node": "^10.8.0",
-        "turbo": "^2.4.4",
+        "turbo": "^2.9.14",
         "typescript": "^5.0.0",
         "typescript-eslint": "^8.28.0",
         "vite": "^7.1.3",
